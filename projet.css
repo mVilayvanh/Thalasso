@@ -1,0 +1,91 @@
+
+
+#titre {
+    padding-left: 10em;
+    text-align: center;
+    color: chocolate;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+p.titre {
+    text-align: center;
+    color: chocolate;
+}
+
+.vbar{
+    background-color: crimson;
+    width: 15em;
+    margin-left: 1em;
+    position: fixed;
+    height: 100%;
+}
+
+div.search {
+    position: absolute;
+    margin-top: 10em;
+    margin-left: 2.25em;
+    padding: 1em;
+    background-color: whitesmoke;
+    border: 3px solid black;
+    height: auto;
+    width: 10em;
+}
+
+.accueil {
+    text-align: center;
+    position: absolute;
+    border: 3px solid black;
+    background-color: whitesmoke;
+    width: 10em;
+    height: auto;
+    padding: 1em;
+    margin-top: 2em;
+    margin-left: 2.25em;
+}
+
+.accueil:hover {
+    background-color: pink;
+}
+
+body {
+    background-color: pink;
+}
+
+table {
+    margin-top: 5em;
+    margin-left: 41em;
+    border-collapse: collapse;
+    border: 3px solid black;
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+th, td {
+    padding: 5px;
+    border: 2px solid black;
+}
+
+div.centre {
+    margin-top: 5em;
+    padding-left: 40em;
+}
+
+div.message {
+    margin-top: 10%;
+    margin-left: 46em;
+    font-weight: bold;
+    color: maroon;
+}
+
+.dim {
+    margin-left: 25em;
+    margin-top: 5em;
+    width: 720px;
+}
+
+.logadmin {
+    position: absolute;
+    margin-left: 70em;
+    float: right;
+}
